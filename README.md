@@ -36,7 +36,9 @@
 
 
 
-**如果你是初次来到github，还对PR操作不熟悉，请参考[PR](./post/pr.md)，如果你觉得不方便，请尽管使用[在线文档](https://docs.qq.com/doc/DTXNTWWVkblhuZHB1?&u=30e6ed245fb5440f8b8f579f07375bf8)**
+**如果你是初次来到github，还对PR操作不熟悉，请参考[PR](./post/pr.md)，如果你觉得不方便，请尽管使用[在线文档](https://docs.qq.com/doc/DTXNTWWVkblhuZHB1?&u=30e6ed245fb5440f8b8f579f07375bf8)，我们会第一时间更新**
+
+
 
 **Any useful PR will be considered** 
 
@@ -58,9 +60,23 @@
 
 **Blog propaganda**
 
-> [woniu0126](https://woniu0126.github.io/)
->
-> [to be done]()
+
+
+[woniu](https://woniu0126.github.io/)
+
+
+
+[to be done]()
+
+
+
+
+
+
+
+
+
+
 
 
 
