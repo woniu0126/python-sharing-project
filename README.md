@@ -1,30 +1,26 @@
 # **python sharing project**
 
-------
 
 
+### learning guideline
 
-#### learning guideline
-
-------
-
+- [ ] to be done
 
 
 
 
-#### website
 
-------
+### website
 
-[python官方文档]()
+- [Python 教程 — Python 3.10.8 文档](https://docs.python.org/zh-cn/3/tutorial/index.html)
 
-[Realpython](https://realpython.com/)
-
+- [Realpython](https://realpython.com/)
 
 
-#### internship
 
-------
+### internship
+
+- [ ] to be done
 
 
 
