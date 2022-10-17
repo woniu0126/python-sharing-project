@@ -56,9 +56,20 @@
 
 
 
+##### 项目目录
+
+```
+.
+|-- post （存放帖子的文件夹）
+|-- book (存放大家找到的书籍)
+|-- README.md
+```
 
 
-**Blog propaganda**
+
+
+
+##### **Blog propaganda**
 
 
 
