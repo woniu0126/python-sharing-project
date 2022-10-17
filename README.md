@@ -1,8 +1,8 @@
-### python资料共享
+### **python sharing project**
 
-##### 学习路线
+#### learning guideline
 
-##### website
+#### website
 
 [python官方文档]()
 
@@ -10,7 +10,7 @@
 
 
 
-##### internship
+#### internship
 
 
 
@@ -18,8 +18,14 @@
 
 
 
-如果你是初次来到github，还对PR操作不熟悉，请参考[PR](./post/pr.md)
+**如果你是初次来到github，还对PR操作不熟悉，请参考[PR](./post/pr.md)**
 
 
 
  ==Any useful PR will be considered==
+
+
+
+
+
+[回到文章顶部](#python资料共享)
