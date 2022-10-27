@@ -4,7 +4,7 @@
 
 ### learning guideline
 
-- [ ] to be done
+[Search · python (github.com)](https://github.com/search?q=python)
 
 
 
@@ -13,8 +13,8 @@
 ### website
 
 - [Python 教程 — Python 3.10.8 文档](https://docs.python.org/zh-cn/3/tutorial/index.html)
-
 - [Realpython](https://realpython.com/)
+- [Python Tutor code visualizer: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit)
 
 
 
